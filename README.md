@@ -4,7 +4,8 @@
 
 * First, check whether each list has at most only one copy of any number (no duplicate values). If any of the input lists contain a duplicate value, print an error message and return. For an example, the list 3, 5, 6, 7, 3, which has 2 copies of 3, is not allowed.
 
-</br>
+
+
 	* Example Output:
 
 		* Enter List 1 Values: 3 2 4 9 8 1 10 5
